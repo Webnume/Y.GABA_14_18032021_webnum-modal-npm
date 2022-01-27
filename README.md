@@ -3,7 +3,18 @@
 A library of React components created using `create-react-app`.
 
 ## Installation
+
 Run the following command:
 `npm i webnum-modal-react`
 
-## How to use it 
+## How to
+
+First you need to import the Modal :
+
+`import { Modal } from 'webnum-modal-react';`
+
+Then you can use the component :
+
+`const [show, setShow] = useState(false);`
+`<Modal onClose={() => setShow(false)} show={show}> <p>Your content !</p> </Modal>`
+`<button onClick={() => setShow(true)}>Show Modal</button>`
