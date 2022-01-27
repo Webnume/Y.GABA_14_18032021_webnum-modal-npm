@@ -1,6 +1,6 @@
 {
   "name": "webnum-modal-react",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
@@ -19,7 +19,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "URL_OF_YOUR_REPOSITORY"
+    "url": "https://github.com/Webnume/Y.GABA_14_18032021_webnum-modal-npm"
   },
   "scripts": {
     "start": "react-scripts start",
