@@ -15,9 +15,9 @@ First you need to import the Modal :
 
 Then you can use the component :
 
-1- Declare 
+1. Declare 
 `const [show, setShow] = useState(false);`
-2- Integrate
+2. Integrate
 `<Modal onClose={() => setShow(false)} show={show}> <p>Your content !</p> </Modal>`
-3- Activate
+3. Activate
 `<button onClick={() => setShow(true)}>Show Modal</button>`
