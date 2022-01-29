@@ -22,6 +22,6 @@ Then you can use the component :
 3. Activate
 > `<button onClick={() => setShow(true)}>Show Modal</button>`
 
-## FIND IT ON NPM 
+## Find it on NPM 
 
 https://www.npmjs.com/package/webnum-modal-react
