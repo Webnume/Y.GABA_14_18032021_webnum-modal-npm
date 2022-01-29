@@ -21,3 +21,7 @@ Then you can use the component :
 > `<Modal onClose={() => setShow(false)} show={show}> <p>Your content !</p> </Modal>`
 3. Activate
 > `<button onClick={() => setShow(true)}>Show Modal</button>`
+
+## FIND IT ON NPM 
+
+https://www.npmjs.com/package/webnum-modal-react
